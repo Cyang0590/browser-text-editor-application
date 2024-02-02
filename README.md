@@ -2,6 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
+![browser-text-editor](./client/src/images/Screenshot%202024-02-01%20231156.png)
+
+
 ## Description
     
    This simple text editor application is created to demonstrate developer's understanding of a PWA. The application also features methods that are useful for storing and retrieving data.
